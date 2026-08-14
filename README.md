@@ -6,8 +6,8 @@ Program pengelolaan data kota dan jalan menggunakan struktur data **Multi Linked
 
 | Nama | NIM |
 |---|---|
-| M. Aulia Priadana | 1301223307 |
 | Sutan Raya Dharma | 1301223468 |
+| M. Aulia Priadana | 1301223307 |
 
 ## Abstrak
 
