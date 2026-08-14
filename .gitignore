@@ -1,0 +1,17 @@
+# Compiled executables
+*.exe
+*.out
+*.a
+
+# Object files
+*.o
+*.obj
+
+# Code::Blocks build directories
+bin/
+obj/
+
+# Code::Blocks generated files
+*.depend
+*.layout
+*.cbp
